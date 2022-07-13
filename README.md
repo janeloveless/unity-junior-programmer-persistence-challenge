@@ -1,14 +1,13 @@
 # junior-programmer-unity-persistence-challenge
 
-This is my solution to the Data persistence challenge in the Unity Learn Junior Programming pathway.
+This is my solution to the Data persistence challenge in the Unity Learn Junior Programming pathway:
+
+https://learn.unity.com/tutorial/submission-data-persistence-in-a-new-repo
+
 
 # Challenge
 
-In brief, the challenge involved taking a pre-made game in the style of breakout (an arcade classic), adding a menu screen on which a player could enter their name, and implementing a hi-score feature which tracks the higher scoring player (and their score) over multiple games and multiple sessions.
-
-Here is a link to more details on the challenge :
- 
-https://learn.unity.com/tutorial/submission-data-persistence-in-a-new-repo
+In brief, the challenge involved taking a pre-made game in the style of breakout (an arcade classic), adding a menu screen on which a player could enter their name, and implementing a hi-score feature which tracks the highest scoring player (and their score) over multiple games and multiple sessions.
 
 
 # Solution
